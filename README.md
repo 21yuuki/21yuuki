@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @21yuuki
 - 👀 I’m interested in Web Development & Programming
 - 🌱 I’m currently learning OOP, PHP, React
-- 💞️ I’m looking to collaborate on any programming language
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me 09777179417 or mhikoleeps@gmail.com
 
 <!---
