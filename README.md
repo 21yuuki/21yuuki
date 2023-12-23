@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mhiko!
 - 👀 I’m interested in Web Development.
-- 🌱 Tech stack: Laravel/Lumen, ReactJS, NodeJS.
+- 🌱 Tech stack: Laravel/Lumen, ReactJS, Vue2, NodeJS.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me: 09777179417 or mhikoleeps@gmail.com.
 
